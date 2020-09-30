@@ -14,4 +14,20 @@
 // else {
 //     console.log(`outside`)
 // }
+// var nationality = 'pakistani';
+// var age = 20;
+// if ((age > 18) && nationality != 'USA') {
+//     console.log('green holder')
+// }
+// else {
+//     console.log('not allowed')
+// }
+// var parent = 'permit';
+// var age = 15;
+// if (age < 15 && parent == 'permit') {
+//     console.log('allowed')
+// }
+// else {
+//     console.log(' allowed')
+// }
 
